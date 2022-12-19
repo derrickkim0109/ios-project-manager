@@ -129,26 +129,26 @@
 
 |Card EnrollmentView|Card DetailView|
 |:--:|:--:|
-|![](https://i.imgur.com/uXChyaS.gif)|![](https://i.imgur.com/z775Pv8.gif)|
+|<img src="https://i.imgur.com/uXChyaS.gif" width="350">|<img src="https://i.imgur.com/z775Pv8.gif" width="350">|
 |스케쥴을 저장합니다.|스케쥴을 수정합니다.|
 
 |Card Delete Swipe|Card Schedule Moved|
 |:--:|:--:|
-|![](https://i.imgur.com/IGgqr24.gif)|![](https://i.imgur.com/2jZQRe4.gif)|
+|<img src="https://i.imgur.com/IGgqr24.gif" width="350">|<img src="https://i.imgur.com/2jZQRe4.gif" width="350">|
 |스케쥴을 삭제합니다.|스케쥴을 이동시킵니다.|
 
 
 
 |LocalData|RemoteData|
 |:--:|:--:|
-|<img src="https://i.imgur.com/8fRastf.gif" width="350">|<img src="https://i.imgur.com/gqz3CtQ.png" width="300">|
+|<img src="https://i.imgur.com/8fRastf.gif" width="350">|<img src="https://i.imgur.com/gqz3CtQ.png" width="350">|
 |Realm Studio를 통해서 확인할 수 있습니다.|Firebase를 통해 저장된 데이터를 확인할 수 있습니다.|
 
     
     
 |HistoryView|
 |:--:|
-|![](https://i.imgur.com/RkYa6M2.gif)|
+|<img src="https://i.imgur.com/RkYa6M2.gif" width="350">|
 |스케쥴 기록 내역을 확인할 수 있습니다.|
 
 ## 🗂 폴더 구조
