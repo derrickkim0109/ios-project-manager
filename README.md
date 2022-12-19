@@ -141,8 +141,10 @@
 
 |LocalData|RemoteData|
 |:--:|:--:|
-|![](https://i.imgur.com/8fRastf.gif)|![](https://i.imgur.com/gqz3CtQ.png)|
+|<img src="https://i.imgur.com/8fRastf.gif" width="350">|<img src="https://i.imgur.com/gqz3CtQ.png" width="300">|
 |Realm Studio를 통해서 확인할 수 있습니다.|Firebase를 통해 저장된 데이터를 확인할 수 있습니다.|
+
+    
     
 |HistoryView|
 |:--:|
